@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-9wkj9a.cuansalam.sbs/sitemap.xml
